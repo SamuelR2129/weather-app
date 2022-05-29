@@ -1,0 +1,7 @@
+#loader {
+  visibility: hidden;
+}
+
+#loader.display {
+  visibility: visible;
+}
